@@ -1,4 +1,4 @@
-# Flask Web App Tutorial
+# Flask Web App
 
 ## Setup & Installation
 
@@ -22,4 +22,4 @@ python main.py
 
 Go to `http://127.0.0.1:5000`
 
-Starter code [from](https://github.com/techwithtim/Flask-Web-App-Tutorial)
+Starter code [source](https://github.com/techwithtim/Flask-Web-App-Tutorial)
